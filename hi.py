@@ -1,0 +1,28 @@
+y=(1,2,3,4,5,6,7,8,9,10)
+print(y[0:3])
+print(y[3:7])
+print(y[7:10])
+print("----------------------------------")
+print(y[0:10:2])
+print(y[1:10:2])
+print("----------------------------------")
+print(y[::-1])
+#print("Hi world")
+print("This is a test script for VAC.py")
+print("------------------------------------------")
+x=20
+print(x)
+print("------------------------------------------")
+y=(20,30,40)
+print(y)
+print("------------------------------------------")
+z=[24,45,80,90]
+print(z[2])
+print("list")
+x=["Amazon","banana","Coconut"]
+x.append("Enchantress")
+x.insert(3,"Drumstick")
+print(x)
+x[3]="Dragonfruit"
+print(x)
+print("------------------------------------------")
